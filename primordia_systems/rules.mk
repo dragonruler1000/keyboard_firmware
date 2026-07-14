@@ -1,0 +1,4 @@
+# CUSTOM_MATRIX = lite
+# SRC += mcp23017.c
+# I2C_DRIVER_REQUIRED = yes
+# ENCODER_ENABLE = yes
